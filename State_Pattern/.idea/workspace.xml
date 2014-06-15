@@ -21,6 +21,129 @@
   <component name="FavoritesManager">
     <favorites_list name="State_Pattern" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="GumballMachine.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gumballstate/GumballMachine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1000" max-vertical-offset="2640">
+              <caret line="50" column="29" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GumballMachineTestDrive.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gumballstate/GumballMachineTestDrive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1400">
+              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JAVA/gumball" pinned="false" current="false" current-in-tab="false">
+        <entry file="uml://JAVA/gumball">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>gumball</OriginalElement>
+              <nodes>
+                <node x="0.0" y="0.0">gumball.GumballMachine</node>
+                <node x="89.5" y="437.0">gumball.GumballMachineTestDrive</node>
+              </nodes>
+              <notes />
+              <edges />
+              <settings layout="Hierarchic Group" zoom="1.0" x="-168.0" y="60.0" />
+              <SelectedNodes>
+                <node>gumball.GumballMachine</node>
+              </SelectedNodes>
+              <Categories>
+                <Category>Constructors</Category>
+                <Category>Fields</Category>
+                <Category>Methods</Category>
+                <Category>Inner Classes</Category>
+                <Category>Properties</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SoldOutState.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gumballstate/SoldOutState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="100" max-vertical-offset="920">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SoldState.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gumballstate/SoldState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="1040">
+              <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="State.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gumballstate/State.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="100" max-vertical-offset="400">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HasQuarterState.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gumballstate/HasQuarterState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="900">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GumballMachine.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/gumball/GumballMachine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.65462756" vertical-offset="380" max-vertical-offset="2720">
+              <caret line="48" column="0" selection-start-line="19" selection-start-column="9" selection-end-line="48" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NoQuarterState.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gumballstate/NoQuarterState.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="100" max-vertical-offset="920">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GumballMachineTestDrive.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gumball/GumballMachineTestDrive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="440" max-vertical-offset="2260">
+              <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="FindManager">
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="true" />
@@ -36,16 +159,16 @@
         <option value="$PROJECT_DIR$/src/gumballstate/NoQuarterState.java" />
         <option value="$PROJECT_DIR$/src/gumballstate/SoldOutState.java" />
         <option value="$PROJECT_DIR$/src/gumballstate/SoldState.java" />
-        <option value="$PROJECT_DIR$/src/gumballstate/GumballMachine.java" />
         <option value="$PROJECT_DIR$/src/gumballstate/GumballMachineTestDrive.java" />
+        <option value="$PROJECT_DIR$/src/gumballstate/GumballMachine.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
-    <option name="y" value="1" />
-    <option name="width" value="1918" />
-    <option name="height" value="1044" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1064" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -107,10 +230,46 @@
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="State_Pattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="State_Pattern" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gumballstate" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="State_Pattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="State_Pattern" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gumball" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -126,7 +285,7 @@
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
     <property name="FullScreen" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Singleton" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../04DecoratorPattern" />
   </component>
   <component name="RunManager" selected="Application.GumballMachineTestDrive (1)">
     <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
@@ -244,25 +403,6 @@
       <option name="trusted" value="true" />
       <method />
     </configuration>
-    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="myFilePath" />
-      <option name="GLUE" />
-      <option name="myNameFilter" />
-      <option name="myGeneratedName" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -289,6 +429,25 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -327,26 +486,6 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
-      <module name="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="DEPLOY" value="true" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
-      <method />
-    </configuration>
     <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
       <option name="BCName" value="" />
       <option name="IOSSimulatorSdkPath" value="" />
@@ -382,6 +521,26 @@
       <option name="usbDebugPort" value="7936" />
       <method />
     </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
     <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Application.Main" />
       <item index="1" class="java.lang.String" itemvalue="Application.GumballMachineTestDrive" />
@@ -407,15 +566,18 @@
       <workItem from="1402450406402" duration="11102000" />
       <workItem from="1402476520195" duration="73000" />
       <workItem from="1402707241090" duration="834000" />
+      <workItem from="1402811636960" duration="252000" />
+      <workItem from="1402812413301" duration="1629000" />
+      <workItem from="1402815391601" duration="26000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12009000" />
+    <option name="totallyTimeSpent" value="13916000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="1" width="1918" height="1044" extended-state="0" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1938" height="1064" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -435,7 +597,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25243244" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25240642" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32871974" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -466,7 +628,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/gumballstate/GumballMachine.java</url>
-          <line>44</line>
+          <line>43</line>
           <properties />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -489,7 +651,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/gumballstate/GumballMachine.java</url>
-          <line>43</line>
+          <line>42</line>
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
@@ -506,6 +668,468 @@
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/gumballstate/GumballMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2640">
+          <caret line="50" column="29" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gumballstate/GumballMachineTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1400">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/gumball">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>gumball</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">gumball.GumballMachine</node>
+            <node x="89.5" y="437.0">gumball.GumballMachineTestDrive</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-168.0" y="60.0" />
+          <SelectedNodes>
+            <node>gumball.GumballMachine</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Constructors</Category>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Inner Classes</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gumballstate/SoldOutState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="100" max-vertical-offset="920">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gumballstate/SoldState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="1040">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gumballstate/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="100" max-vertical-offset="400">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gumballstate/HasQuarterState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="900">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gumball/GumballMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="380" max-vertical-offset="2720">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gumballstate/NoQuarterState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="100" max-vertical-offset="920">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gumball/GumballMachineTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="440" max-vertical-offset="2260">
+          <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/State_Pattern.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="360">
+          <caret line="12" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gumballstate/GumballMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="100" max-vertical-offset="2660">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/gumballstate">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>gumballstate</OriginalElement>
+          <nodes>
+            <node x="838.0" y="192.0">gumballstate.HasQuarterState</node>
+            <node x="1257.0" y="192.0">gumballstate.NoQuarterState</node>
+            <node x="1485.2505820721767" y="870.1816065192083">gumballstate.GumballMachineTestDrive</node>
+            <node x="917.59375" y="0.0">gumballstate.State</node>
+            <node x="419.0" y="192.0">gumballstate.SoldOutState</node>
+            <node x="720.2499999999999" y="487.0">gumballstate.GumballMachine</node>
+            <node x="0.0" y="192.0">gumballstate.SoldState</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="gumballstate.GumballMachine" target="gumballstate.NoQuarterState">
+              <point x="96.66666666666686" y="-193.5" />
+              <point x="1034.4166666666667" y="447.0" />
+              <point x="1356.75" y="447.0" />
+              <point x="-99.75" y="112.5" />
+            </edge>
+            <edge source="gumballstate.NoQuarterState" target="gumballstate.State">
+              <point x="0.0" y="-112.5" />
+              <point x="1456.5" y="172.0" />
+              <point x="1086.29375" y="172.0" />
+              <point x="48.200000000000045" y="71.0" />
+            </edge>
+            <edge source="gumballstate.SoldOutState" target="gumballstate.GumballMachine">
+              <point x="99.75" y="112.5" />
+              <point x="718.25" y="437.0" />
+              <point x="889.4166666666666" y="437.0" />
+              <point x="-48.33333333333326" y="-193.5" />
+            </edge>
+            <edge source="gumballstate.HasQuarterState" target="gumballstate.State">
+              <point x="0.0" y="-112.5" />
+              <point x="0.0" y="71.0" />
+            </edge>
+            <edge source="gumballstate.SoldState" target="gumballstate.State">
+              <point x="0.0" y="-112.5" />
+              <point x="199.5" y="162.0" />
+              <point x="941.6937499999999" y="162.0" />
+              <point x="-96.39999999999998" y="71.0" />
+            </edge>
+            <edge source="gumballstate.SoldState" target="gumballstate.GumballMachine">
+              <point x="99.75" y="112.5" />
+              <point x="299.25" y="457.0" />
+              <point x="792.7499999999999" y="457.0" />
+              <point x="-145.0" y="-193.5" />
+            </edge>
+            <edge source="gumballstate.GumballMachine" target="gumballstate.SoldOutState">
+              <point x="-96.66666666666663" y="-193.5" />
+              <point x="841.0833333333333" y="447.0" />
+              <point x="518.75" y="447.0" />
+              <point x="-99.75" y="112.5" />
+            </edge>
+            <edge source="gumballstate.HasQuarterState" target="gumballstate.GumballMachine">
+              <point x="99.75" y="112.5" />
+              <point x="1137.25" y="437.0" />
+              <point x="986.0833333333333" y="437.0" />
+              <point x="48.33333333333337" y="-193.5" />
+            </edge>
+            <edge source="gumballstate.GumballMachine" target="gumballstate.HasQuarterState">
+              <point x="1.1368683772161603E-13" y="-193.5" />
+              <point x="-99.75" y="112.5" />
+            </edge>
+            <edge source="gumballstate.GumballMachineTestDrive" target="gumballstate.GumballMachine">
+              <point x="0.0" y="-30.5" />
+              <point x="0.0" y="193.5" />
+            </edge>
+            <edge source="gumballstate.NoQuarterState" target="gumballstate.GumballMachine">
+              <point x="99.75000000000006" y="112.5" />
+              <point x="1556.25" y="457.0" />
+              <point x="1082.75" y="457.0" />
+              <point x="145.0000000000001" y="-193.5" />
+            </edge>
+            <edge source="gumballstate.GumballMachine" target="gumballstate.State">
+              <point x="193.33333333333337" y="-193.5" />
+              <point x="1131.0833333333333" y="467.0" />
+              <point x="1666.5" y="467.0" />
+              <point x="1666.5" y="162.0" />
+              <point x="1134.49375" y="162.0" />
+              <point x="96.40000000000009" y="71.0" />
+            </edge>
+            <edge source="gumballstate.SoldOutState" target="gumballstate.State">
+              <point x="0.0" y="-112.5" />
+              <point x="618.5" y="172.0" />
+              <point x="989.89375" y="172.0" />
+              <point x="-48.200000000000045" y="71.0" />
+            </edge>
+            <edge source="gumballstate.GumballMachine" target="gumballstate.SoldState">
+              <point x="-193.33333333333337" y="-193.5" />
+              <point x="744.4166666666665" y="467.0" />
+              <point x="99.75" y="467.0" />
+              <point x="-99.75" y="112.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.854726368159204" x="135.0" y="271.0" />
+          <SelectedNodes>
+            <node>gumballstate.SoldOutState</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Constructors</Category>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Inner Classes</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../02Observer/02Observer.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="360">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/State_Pattern.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+          <caret line="12" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../02Observer/02Observer.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/gumballstate">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>gumballstate</OriginalElement>
+          <nodes>
+            <node x="838.0" y="192.0">gumballstate.HasQuarterState</node>
+            <node x="1257.0" y="192.0">gumballstate.NoQuarterState</node>
+            <node x="1485.2505820721767" y="870.1816065192083">gumballstate.GumballMachineTestDrive</node>
+            <node x="917.59375" y="0.0">gumballstate.State</node>
+            <node x="419.0" y="192.0">gumballstate.SoldOutState</node>
+            <node x="720.2499999999999" y="487.0">gumballstate.GumballMachine</node>
+            <node x="0.0" y="192.0">gumballstate.SoldState</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="gumballstate.GumballMachine" target="gumballstate.NoQuarterState">
+              <point x="96.66666666666686" y="-193.5" />
+              <point x="1034.4166666666667" y="447.0" />
+              <point x="1356.75" y="447.0" />
+              <point x="-99.75" y="112.5" />
+            </edge>
+            <edge source="gumballstate.NoQuarterState" target="gumballstate.State">
+              <point x="0.0" y="-112.5" />
+              <point x="1456.5" y="172.0" />
+              <point x="1086.29375" y="172.0" />
+              <point x="48.200000000000045" y="71.0" />
+            </edge>
+            <edge source="gumballstate.SoldOutState" target="gumballstate.GumballMachine">
+              <point x="99.75" y="112.5" />
+              <point x="718.25" y="437.0" />
+              <point x="889.4166666666666" y="437.0" />
+              <point x="-48.33333333333326" y="-193.5" />
+            </edge>
+            <edge source="gumballstate.HasQuarterState" target="gumballstate.State">
+              <point x="0.0" y="-112.5" />
+              <point x="0.0" y="71.0" />
+            </edge>
+            <edge source="gumballstate.SoldState" target="gumballstate.State">
+              <point x="0.0" y="-112.5" />
+              <point x="199.5" y="162.0" />
+              <point x="941.6937499999999" y="162.0" />
+              <point x="-96.39999999999998" y="71.0" />
+            </edge>
+            <edge source="gumballstate.SoldState" target="gumballstate.GumballMachine">
+              <point x="99.75" y="112.5" />
+              <point x="299.25" y="457.0" />
+              <point x="792.7499999999999" y="457.0" />
+              <point x="-145.0" y="-193.5" />
+            </edge>
+            <edge source="gumballstate.GumballMachine" target="gumballstate.SoldOutState">
+              <point x="-96.66666666666663" y="-193.5" />
+              <point x="841.0833333333333" y="447.0" />
+              <point x="518.75" y="447.0" />
+              <point x="-99.75" y="112.5" />
+            </edge>
+            <edge source="gumballstate.HasQuarterState" target="gumballstate.GumballMachine">
+              <point x="99.75" y="112.5" />
+              <point x="1137.25" y="437.0" />
+              <point x="986.0833333333333" y="437.0" />
+              <point x="48.33333333333337" y="-193.5" />
+            </edge>
+            <edge source="gumballstate.GumballMachine" target="gumballstate.HasQuarterState">
+              <point x="1.1368683772161603E-13" y="-193.5" />
+              <point x="-99.75" y="112.5" />
+            </edge>
+            <edge source="gumballstate.GumballMachineTestDrive" target="gumballstate.GumballMachine">
+              <point x="0.0" y="-30.5" />
+              <point x="0.0" y="193.5" />
+            </edge>
+            <edge source="gumballstate.NoQuarterState" target="gumballstate.GumballMachine">
+              <point x="99.75000000000006" y="112.5" />
+              <point x="1556.25" y="457.0" />
+              <point x="1082.75" y="457.0" />
+              <point x="145.0000000000001" y="-193.5" />
+            </edge>
+            <edge source="gumballstate.GumballMachine" target="gumballstate.State">
+              <point x="193.33333333333337" y="-193.5" />
+              <point x="1131.0833333333333" y="467.0" />
+              <point x="1666.5" y="467.0" />
+              <point x="1666.5" y="162.0" />
+              <point x="1134.49375" y="162.0" />
+              <point x="96.40000000000009" y="71.0" />
+            </edge>
+            <edge source="gumballstate.SoldOutState" target="gumballstate.State">
+              <point x="0.0" y="-112.5" />
+              <point x="618.5" y="172.0" />
+              <point x="989.89375" y="172.0" />
+              <point x="-48.200000000000045" y="71.0" />
+            </edge>
+            <edge source="gumballstate.GumballMachine" target="gumballstate.SoldState">
+              <point x="-193.33333333333337" y="-193.5" />
+              <point x="744.4166666666665" y="467.0" />
+              <point x="99.75" y="467.0" />
+              <point x="-99.75" y="112.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.854726368159204" x="135.0" y="271.0" />
+          <SelectedNodes>
+            <node>gumballstate.SoldOutState</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Constructors</Category>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Inner Classes</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/gumball">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>gumball</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">gumball.GumballMachine</node>
+            <node x="89.5" y="437.0">gumball.GumballMachineTestDrive</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-168.0" y="60.0" />
+          <SelectedNodes>
+            <node>gumball.GumballMachine</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Constructors</Category>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Inner Classes</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gumballstate/SoldOutState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="840">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gumballstate/SoldState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="960">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gumballstate/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="400">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gumballstate/GumballMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="254" max-vertical-offset="2160">
+          <caret line="50" column="29" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gumballstate/GumballMachineTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="1400">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gumballstate/HasQuarterState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="740">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gumballstate/NoQuarterState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="800">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gumball/GumballMachineTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="840" max-vertical-offset="2260">
+          <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gumball/GumballMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.65462756" vertical-offset="380" max-vertical-offset="2720">
+          <caret line="48" column="0" selection-start-line="19" selection-start-column="9" selection-end-line="48" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
 

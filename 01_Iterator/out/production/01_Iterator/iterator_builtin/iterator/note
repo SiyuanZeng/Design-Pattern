@@ -1,0 +1,3 @@
+items [] need to override next() and hasNext()
+No need to implement next() and hasNext for ArrayList;
+menu return iterator

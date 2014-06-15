@@ -23,107 +23,96 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="WeatherData.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/weatherObservable/WeatherData.java">
+      <file leaf-file-name="02Observer.iml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02Observer.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="474" max-vertical-offset="1340">
-              <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="360">
+              <caret line="12" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WeatherStation.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/weatherObservable/WeatherStation.java">
+      <file leaf-file-name="JAVA/weatherObservable" pinned="false" current="false" current-in-tab="false">
+        <entry file="uml://JAVA/weatherObservable">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>weatherObservable</OriginalElement>
+              <nodes>
+                <node x="315.8500000000001" y="453.0">weatherObservable.WeatherStation</node>
+                <node x="1183.0" y="165.0">weatherObservable.HeatIndexDisplay</node>
+                <node x="722.2250000000001" y="453.0">weatherObservable.WeatherStationHeatIndex</node>
+                <node x="307.0" y="111.0">weatherObservable.StatisticsDisplay</node>
+                <node x="620.0" y="138.0">weatherObservable.CurrentConditionsDisplay</node>
+                <node x="675.6333333333334" y="0.0">weatherObservable.DisplayElement</node>
+                <node x="909.0" y="138.0">weatherObservable.WeatherData</node>
+                <node x="1415.0" y="124.5">weatherObservable.SiyuanZeng</node>
+                <node x="0.0" y="138.0">weatherObservable.ForecastDisplay</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="weatherObservable.ForecastDisplay" target="weatherObservable.DisplayElement">
+                  <point x="0.0" y="-99.0" />
+                  <point x="143.5" y="81.0" />
+                  <point x="689.8333333333335" y="81.0" />
+                  <point x="-56.799999999999955" y="30.5" />
+                </edge>
+                <edge source="weatherObservable.SiyuanZeng" target="weatherObservable.DisplayElement">
+                  <point x="0.0" y="-112.5" />
+                  <point x="1559.5" y="81.0" />
+                  <point x="803.4333333333334" y="81.0" />
+                  <point x="56.799999999999955" y="30.5" />
+                </edge>
+                <edge source="weatherObservable.StatisticsDisplay" target="weatherObservable.DisplayElement">
+                  <point x="0.0" y="-126.0" />
+                  <point x="453.5" y="91.0" />
+                  <point x="718.2333333333333" y="91.0" />
+                  <point x="-28.399999999999977" y="30.5" />
+                </edge>
+                <edge source="weatherObservable.HeatIndexDisplay" target="weatherObservable.DisplayElement">
+                  <point x="0.0" y="-72.0" />
+                  <point x="1289.0" y="91.0" />
+                  <point x="775.0333333333333" y="91.0" />
+                  <point x="28.399999999999977" y="30.5" />
+                </edge>
+                <edge source="weatherObservable.CurrentConditionsDisplay" target="weatherObservable.DisplayElement">
+                  <point x="0.0" y="-99.0" />
+                  <point x="754.5" y="91.0" />
+                  <point x="746.6333333333334" y="91.0" />
+                  <point x="0.0" y="30.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.947215777262181" x="243.0" y="57.0" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Constructors</Category>
+                <Category>Fields</Category>
+                <Category>Methods</Category>
+                <Category>Inner Classes</Category>
+                <Category>Properties</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04DecoratorPattern.iml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../04DecoratorPattern/04DecoratorPattern.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
-              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.27088037" vertical-offset="0" max-vertical-offset="886">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Observable.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/weatherObservable/Observable.java">
+      <file leaf-file-name="State_Pattern.iml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../State_Pattern/State_Pattern.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#188#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Subject.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/weatherObservable/Subject.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HeatIndexDisplay.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/weatherObservable/HeatIndexDisplay.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="580" max-vertical-offset="1160">
-              <caret line="46" column="4" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ForecastDisplay.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/weatherObservable/ForecastDisplay.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="800" max-vertical-offset="1380">
-              <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Subject.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/weather/Subject.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="380">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DisplayElement.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/weather/DisplayElement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="280">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CurrentConditionsDisplay.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/weather/CurrentConditionsDisplay.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="820">
-              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WeatherData.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/weather/WeatherData.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7724138" vertical-offset="612" max-vertical-offset="1340">
-              <caret line="62" column="8" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+              <caret line="12" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -164,10 +153,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
-    <option name="y" value="1" />
-    <option name="width" value="1918" />
-    <option name="height" value="1044" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1064" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -198,7 +187,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -248,13 +236,10 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="weather" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -269,7 +254,8 @@
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Design_Pattern_Lynda" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../State_Pattern" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -571,41 +557,45 @@
       <changelist id="e75390f9-2ea9-4a49-9f49-72171fac76fc" name="Default" comment="" />
       <created>1402760856263</created>
       <updated>1402760856263</updated>
-      <workItem from="1402760860285" duration="8497000" />
+      <workItem from="1402760860285" duration="8819000" />
+      <workItem from="1402783775095" duration="46000" />
+      <workItem from="1402783940168" duration="729000" />
+      <workItem from="1402811909858" duration="441000" />
+      <workItem from="1402812370303" duration="647000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8497000" />
+    <option name="totallyTimeSpent" value="10682000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="1" width="1918" height="1044" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1064" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24972972" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3298731" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24919786" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298731" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -634,493 +624,168 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="uml://JAVA/">
+    <entry file="file://$PROJECT_DIR$/02Observer.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="360">
+          <caret line="12" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/weatherObservable">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
           <ID>JAVA</ID>
-          <OriginalElement />
+          <OriginalElement>weatherObservable</OriginalElement>
           <nodes>
-            <node x="0.0" y="0.0">Main</node>
-            <node x="0.0" y="106.0">weather</node>
+            <node x="315.8500000000001" y="453.0">weatherObservable.WeatherStation</node>
+            <node x="1183.0" y="165.0">weatherObservable.HeatIndexDisplay</node>
+            <node x="722.2250000000001" y="453.0">weatherObservable.WeatherStationHeatIndex</node>
+            <node x="307.0" y="111.0">weatherObservable.StatisticsDisplay</node>
+            <node x="620.0" y="138.0">weatherObservable.CurrentConditionsDisplay</node>
+            <node x="675.6333333333334" y="0.0">weatherObservable.DisplayElement</node>
+            <node x="909.0" y="138.0">weatherObservable.WeatherData</node>
+            <node x="1415.0" y="124.5">weatherObservable.SiyuanZeng</node>
+            <node x="0.0" y="138.0">weatherObservable.ForecastDisplay</node>
           </nodes>
           <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="-161.5" y="21.5" />
-          <SelectedNodes>
-            <node>weather</node>
-          </SelectedNodes>
+          <edges>
+            <edge source="weatherObservable.ForecastDisplay" target="weatherObservable.DisplayElement">
+              <point x="0.0" y="-99.0" />
+              <point x="143.5" y="81.0" />
+              <point x="689.8333333333335" y="81.0" />
+              <point x="-56.799999999999955" y="30.5" />
+            </edge>
+            <edge source="weatherObservable.SiyuanZeng" target="weatherObservable.DisplayElement">
+              <point x="0.0" y="-112.5" />
+              <point x="1559.5" y="81.0" />
+              <point x="803.4333333333334" y="81.0" />
+              <point x="56.799999999999955" y="30.5" />
+            </edge>
+            <edge source="weatherObservable.StatisticsDisplay" target="weatherObservable.DisplayElement">
+              <point x="0.0" y="-126.0" />
+              <point x="453.5" y="91.0" />
+              <point x="718.2333333333333" y="91.0" />
+              <point x="-28.399999999999977" y="30.5" />
+            </edge>
+            <edge source="weatherObservable.HeatIndexDisplay" target="weatherObservable.DisplayElement">
+              <point x="0.0" y="-72.0" />
+              <point x="1289.0" y="91.0" />
+              <point x="775.0333333333333" y="91.0" />
+              <point x="28.399999999999977" y="30.5" />
+            </edge>
+            <edge source="weatherObservable.CurrentConditionsDisplay" target="weatherObservable.DisplayElement">
+              <point x="0.0" y="-99.0" />
+              <point x="754.5" y="91.0" />
+              <point x="746.6333333333334" y="91.0" />
+              <point x="0.0" y="30.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.947215777262181" x="243.0" y="57.0" />
+          <SelectedNodes />
           <Categories>
-            <Category>Fields</Category>
             <Category>Constructors</Category>
+            <Category>Fields</Category>
             <Category>Methods</Category>
-            <Category>Properties</Category>
             <Category>Inner Classes</Category>
+            <Category>Properties</Category>
           </Categories>
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/weather.Observable">
+    <entry file="file://$PROJECT_DIR$/../State_Pattern/State_Pattern.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="200" max-vertical-offset="360">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02Observer.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+          <caret line="12" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../State_Pattern/State_Pattern.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+          <caret line="12" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/weatherObservable">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
           <ID>JAVA</ID>
-          <OriginalElement>weather.Observable</OriginalElement>
+          <OriginalElement>weatherObservable</OriginalElement>
           <nodes>
-            <node x="398.125" y="0.0">weather.Observable</node>
-            <node x="140.125" y="0.0">weather.DisplayElement</node>
-            <node x="315.0" y="114.0">weather.CurrentConditionsDisplay</node>
-            <node x="0.0" y="356.0">weather.WeatherStationHeatIndex</node>
-            <node x="0.0" y="114.0">weather.ForecastDisplay</node>
-            <node x="156.0" y="114.0">weather.StatisticsDisplay</node>
-            <node x="0.0" y="435.0">weather.WeatherStation</node>
-            <node x="0.0" y="277.0">weather.WeatherData</node>
-            <node x="535.0" y="114.0">weather.HeatIndexDisplay</node>
-            <node x="19.5" y="193.0">weather.Subject</node>
+            <node x="315.8500000000001" y="453.0">weatherObservable.WeatherStation</node>
+            <node x="1183.0" y="165.0">weatherObservable.HeatIndexDisplay</node>
+            <node x="722.2250000000001" y="453.0">weatherObservable.WeatherStationHeatIndex</node>
+            <node x="307.0" y="111.0">weatherObservable.StatisticsDisplay</node>
+            <node x="620.0" y="138.0">weatherObservable.CurrentConditionsDisplay</node>
+            <node x="675.6333333333334" y="0.0">weatherObservable.DisplayElement</node>
+            <node x="909.0" y="138.0">weatherObservable.WeatherData</node>
+            <node x="1415.0" y="124.5">weatherObservable.SiyuanZeng</node>
+            <node x="0.0" y="138.0">weatherObservable.ForecastDisplay</node>
           </nodes>
           <notes />
           <edges>
-            <edge source="weather.StatisticsDisplay" target="weather.Observable">
-              <point x="34.75" y="-17.0" />
-              <point x="260.25" y="94.0" />
-              <point x="438.25" y="94.0" />
-              <point x="-13.375" y="17.0" />
+            <edge source="weatherObservable.ForecastDisplay" target="weatherObservable.DisplayElement">
+              <point x="0.0" y="-99.0" />
+              <point x="143.5" y="81.0" />
+              <point x="689.8333333333335" y="81.0" />
+              <point x="-56.799999999999955" y="30.5" />
             </edge>
-            <edge source="weather.ForecastDisplay" target="weather.DisplayElement">
-              <point x="-34.0" y="-17.0" />
-              <point x="34.0" y="74.0" />
-              <point x="157.0" y="74.0" />
-              <point x="-50.625" y="17.0" />
+            <edge source="weatherObservable.SiyuanZeng" target="weatherObservable.DisplayElement">
+              <point x="0.0" y="-112.5" />
+              <point x="1559.5" y="81.0" />
+              <point x="803.4333333333334" y="81.0" />
+              <point x="56.799999999999955" y="30.5" />
             </edge>
-            <edge source="weather.CurrentConditionsDisplay" target="weather.Observable">
-              <point x="50.0" y="-17.0" />
-              <point x="13.375" y="17.0" />
+            <edge source="weatherObservable.StatisticsDisplay" target="weatherObservable.DisplayElement">
+              <point x="0.0" y="-126.0" />
+              <point x="453.5" y="91.0" />
+              <point x="718.2333333333333" y="91.0" />
+              <point x="-28.399999999999977" y="30.5" />
             </edge>
-            <edge source="weather.HeatIndexDisplay" target="weather.Observable">
-              <point x="37.25" y="-17.0" />
-              <point x="646.75" y="54.0" />
-              <point x="491.75" y="54.0" />
-              <point x="40.125" y="17.0" />
+            <edge source="weatherObservable.HeatIndexDisplay" target="weatherObservable.DisplayElement">
+              <point x="0.0" y="-72.0" />
+              <point x="1289.0" y="91.0" />
+              <point x="775.0333333333333" y="91.0" />
+              <point x="28.399999999999977" y="30.5" />
             </edge>
-            <edge source="weather.WeatherData" target="weather.Subject">
-              <point x="0.0" y="-17.0" />
-              <point x="0.0" y="17.0" />
-            </edge>
-            <edge source="weather.CurrentConditionsDisplay" target="weather.DisplayElement">
-              <point x="-50.0" y="-17.0" />
-              <point x="365.0" y="74.0" />
-              <point x="224.5" y="74.0" />
-              <point x="16.875" y="17.0" />
-            </edge>
-            <edge source="weather.StatisticsDisplay" target="weather.DisplayElement">
-              <point x="-34.75" y="-17.0" />
-              <point x="-16.875" y="17.0" />
-            </edge>
-            <edge source="weather.ForecastDisplay" target="weather.Observable">
-              <point x="34.0" y="-17.0" />
-              <point x="102.0" y="84.0" />
-              <point x="411.5" y="84.0" />
-              <point x="-40.125" y="17.0" />
-            </edge>
-            <edge source="weather.HeatIndexDisplay" target="weather.DisplayElement">
-              <point x="-37.25" y="-17.0" />
-              <point x="572.25" y="64.0" />
-              <point x="258.25" y="64.0" />
-              <point x="50.625" y="17.0" />
+            <edge source="weatherObservable.CurrentConditionsDisplay" target="weatherObservable.DisplayElement">
+              <point x="0.0" y="-99.0" />
+              <point x="754.5" y="91.0" />
+              <point x="746.6333333333334" y="91.0" />
+              <point x="0.0" y="30.5" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-13.5" y="55.0" />
+          <settings layout="Hierarchic Group" zoom="0.947215777262181" x="243.0" y="57.0" />
           <SelectedNodes />
-          <Categories />
+          <Categories>
+            <Category>Constructors</Category>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Inner Classes</Category>
+            <Category>Properties</Category>
+          </Categories>
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/weather/WeatherStation.java">
+    <entry file="file://$PROJECT_DIR$/../04DecoratorPattern/04DecoratorPattern.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/weather/Observable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="260">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/weather/StatisticsDisplay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="960">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/weather/HeatIndexDisplay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="820">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/weather/ForecastDisplay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="920">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/weather/SiyuanZeng.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="700">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/weather/WeatherStationHeatIndex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="560">
-          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/weather">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>weather</OriginalElement>
-          <nodes>
-            <node x="125.34618055555563" y="0.0">weather.Observable</node>
-            <node x="617.7833333333333" y="0.0">weather.DisplayElement</node>
-            <node x="373.0246527777778" y="174.0">weather.CurrentConditionsDisplay</node>
-            <node x="440.0541666666668" y="298.0">weather.WeatherStationHeatIndex</node>
-            <node x="218.9291666666668" y="298.0">weather.WeatherStation</node>
-            <node x="217.02465277777782" y="174.0">weather.ForecastDisplay</node>
-            <node x="593.0246527777779" y="174.0">weather.StatisticsDisplay</node>
-            <node x="68.51215277777777" y="174.0">weather.WeatherData</node>
-            <node x="755.7375" y="174.0">weather.HeatIndexDisplay</node>
-            <node x="0.0" y="298.0">weather.SiyuanZeng</node>
-            <node x="425.82500000000005" y="0.0">weather.Subject</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="weather.WeatherStation" target="weather.CurrentConditionsDisplay">
-              <point x="16.875" y="-17.0" />
-              <point x="303.3041666666668" y="248.0" />
-              <point x="423.0246527777778" y="248.0" />
-              <point x="-50.0" y="17.0" />
-            </edge>
-            <edge source="weather.WeatherStationHeatIndex" target="weather.StatisticsDisplay">
-              <point x="40.60000000000002" y="-17.0" />
-              <point x="582.1541666666668" y="268.0" />
-              <point x="697.2746527777779" y="268.0" />
-              <point x="34.75" y="17.0" />
-            </edge>
-            <edge source="weather.ForecastDisplay" target="weather.DisplayElement">
-              <point x="45.333333333333314" y="-17.0" />
-              <point x="330.35798611111113" y="144.0" />
-              <point x="634.6583333333333" y="144.0" />
-              <point x="-50.625" y="17.0" />
-            </edge>
-            <edge source="weather.CurrentConditionsDisplay" target="weather.Observable">
-              <point x="-66.66666666666674" y="-17.0" />
-              <point x="406.3579861111111" y="104.0" />
-              <point x="187.76284722222232" y="104.0" />
-              <point x="8.916666666666686" y="17.0" />
-            </edge>
-            <edge source="weather.WeatherData" target="weather.Observable">
-              <point x="-30.0" y="-17.0" />
-              <point x="98.51215277777777" y="154.0" />
-              <point x="152.09618055555563" y="154.0" />
-              <point x="-26.75" y="17.0" />
-            </edge>
-            <edge source="weather.CurrentConditionsDisplay" target="weather.DisplayElement">
-              <point x="66.66666666666663" y="-17.0" />
-              <point x="539.6913194444444" y="154.0" />
-              <point x="668.4083333333333" y="154.0" />
-              <point x="-16.875" y="17.0" />
-            </edge>
-            <edge source="weather.WeatherStation" target="weather.StatisticsDisplay">
-              <point x="50.625" y="-17.0" />
-              <point x="337.0541666666668" y="258.0" />
-              <point x="627.7746527777779" y="258.0" />
-              <point x="-34.75" y="17.0" />
-            </edge>
-            <edge source="weather.WeatherStation" target="weather.WeatherData">
-              <point x="-50.625" y="-17.0" />
-              <point x="235.8041666666668" y="278.0" />
-              <point x="128.51215277777777" y="278.0" />
-              <point x="0.0" y="17.0" />
-            </edge>
-            <edge source="weather.SiyuanZeng" target="weather.WeatherData">
-              <point x="27.25" y="-17.0" />
-              <point x="81.75" y="278.0" />
-              <point x="88.51215277777777" y="278.0" />
-              <point x="-40.0" y="17.0" />
-            </edge>
-            <edge source="weather.HeatIndexDisplay" target="weather.DisplayElement">
-              <point x="49.66666666666666" y="-17.0" />
-              <point x="879.9041666666667" y="54.0" />
-              <point x="735.9083333333333" y="54.0" />
-              <point x="50.625" y="17.0" />
-            </edge>
-            <edge source="weather.WeatherStationHeatIndex" target="weather.ForecastDisplay">
-              <point x="-40.599999999999966" y="-17.0" />
-              <point x="500.9541666666668" y="228.0" />
-              <point x="319.0246527777778" y="228.0" />
-              <point x="34.0" y="17.0" />
-            </edge>
-            <edge source="weather.WeatherStationHeatIndex" target="weather.CurrentConditionsDisplay">
-              <point x="0.0" y="-17.0" />
-              <point x="541.5541666666668" y="248.0" />
-              <point x="523.0246527777779" y="248.0" />
-              <point x="50.0" y="17.0" />
-            </edge>
-            <edge source="weather.WeatherStationHeatIndex" target="weather.WeatherData">
-              <point x="-81.19999999999996" y="-17.0" />
-              <point x="460.35416666666686" y="238.0" />
-              <point x="168.51215277777777" y="238.0" />
-              <point x="40.0" y="17.0" />
-            </edge>
-            <edge source="weather.ForecastDisplay" target="weather.Observable">
-              <point x="-45.333333333333314" y="-17.0" />
-              <point x="239.6913194444445" y="114.0" />
-              <point x="169.92951388888895" y="114.0" />
-              <point x="-8.916666666666686" y="17.0" />
-            </edge>
-            <edge source="weather.CurrentConditionsDisplay" target="weather.Subject">
-              <point x="0.0" y="-17.0" />
-              <point x="473.0246527777778" y="134.0" />
-              <point x="466.32500000000005" y="134.0" />
-              <point x="0.0" y="17.0" />
-            </edge>
-            <edge source="weather.WeatherStation" target="weather.ForecastDisplay">
-              <point x="-16.875" y="-17.0" />
-              <point x="269.5541666666668" y="278.0" />
-              <point x="251.02465277777782" y="278.0" />
-              <point x="-34.0" y="17.0" />
-            </edge>
-            <edge source="weather.WeatherStationHeatIndex" target="weather.HeatIndexDisplay">
-              <point x="81.19999999999999" y="-17.0" />
-              <point x="622.7541666666668" y="278.0" />
-              <point x="830.2375" y="278.0" />
-              <point x="0.0" y="17.0" />
-            </edge>
-            <edge source="weather.StatisticsDisplay" target="weather.Observable">
-              <point x="-46.33333333333334" y="-17.0" />
-              <point x="616.1913194444445" y="94.0" />
-              <point x="205.59618055555563" y="94.0" />
-              <point x="26.75" y="17.0" />
-            </edge>
-            <edge source="weather.WeatherData" target="weather.Subject">
-              <point x="30.0" y="-17.0" />
-              <point x="158.51215277777777" y="124.0" />
-              <point x="433.92500000000007" y="124.0" />
-              <point x="-32.39999999999998" y="17.0" />
-            </edge>
-            <edge source="weather.ForecastDisplay" target="weather.Subject">
-              <point x="0.0" y="-17.0" />
-              <point x="285.0246527777778" y="134.0" />
-              <point x="450.125" y="134.0" />
-              <point x="-16.200000000000045" y="17.0" />
-            </edge>
-            <edge source="weather.HeatIndexDisplay" target="weather.Observable">
-              <point x="-49.66666666666666" y="-17.0" />
-              <point x="780.5708333333334" y="74.0" />
-              <point x="223.42951388888895" y="74.0" />
-              <point x="44.583333333333314" y="17.0" />
-            </edge>
-            <edge source="weather.HeatIndexDisplay" target="weather.Subject">
-              <point x="0.0" y="-17.0" />
-              <point x="830.2375" y="64.0" />
-              <point x="498.725" y="64.0" />
-              <point x="32.39999999999998" y="17.0" />
-            </edge>
-            <edge source="weather.StatisticsDisplay" target="weather.Subject">
-              <point x="0.0" y="-17.0" />
-              <point x="662.5246527777779" y="84.0" />
-              <point x="482.5250000000001" y="84.0" />
-              <point x="16.200000000000045" y="17.0" />
-            </edge>
-            <edge source="weather.SiyuanZeng" target="weather.Observable">
-              <point x="-27.25" y="-17.0" />
-              <point x="27.25" y="278.0" />
-              <point x="33.94965277777777" y="278.0" />
-              <point x="33.94965277777777" y="144.0" />
-              <point x="134.26284722222232" y="144.0" />
-              <point x="-44.583333333333314" y="17.0" />
-            </edge>
-            <edge source="weather.StatisticsDisplay" target="weather.DisplayElement">
-              <point x="46.333333333333314" y="-17.0" />
-              <point x="708.8579861111111" y="154.0" />
-              <point x="702.1583333333333" y="154.0" />
-              <point x="16.875" y="17.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.4000000000000001" x="44.428571428571416" y="47.428571428571416" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Developer/Java/jdk1.7.0_51/src.zip!/java/util/Observable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="660" max-vertical-offset="3640">
-          <caret line="113" column="16" selection-start-line="113" selection-start-column="16" selection-end-line="113" selection-end-column="16" />
-          <folding>
-            <element signature="e#3738#3739#0" expanded="true" />
-            <element signature="e#3775#3776#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Developer/Java/jdk1.7.0_51/jre/lib/rt.jar!/java/util/Observer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="260">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/weatherObservable/StatisticsDisplay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="934" max-vertical-offset="1800">
-          <caret line="77" column="13" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/weatherObservable/WeatherStationHeatIndex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="560">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/weatherObservable/CurrentConditionsDisplay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="254" max-vertical-offset="1120">
-          <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/weatherObservable/DisplayElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="280">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/weatherObservable/SiyuanZeng.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1140">
-          <caret line="8" column="61" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/weatherObservable/WeatherData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="474" max-vertical-offset="1340">
-          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/weatherObservable/WeatherStation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/weatherObservable/Observable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#188#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/weatherObservable/Subject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/weatherObservable/HeatIndexDisplay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1160">
-          <caret line="46" column="4" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/weatherObservable/ForecastDisplay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="800" max-vertical-offset="1380">
-          <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/weather/Subject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="380">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/weather/DisplayElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="280">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/weather/CurrentConditionsDisplay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="820">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/weather/WeatherData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7724138" vertical-offset="612" max-vertical-offset="1340">
-          <caret line="62" column="8" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.27088037" vertical-offset="0" max-vertical-offset="886">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
